@@ -1,4 +1,4 @@
-# go-simple-restfull
+# go-belajar-httprouter-json
 Belajara golang membuat aplikasi restfull simple (httprouter)
 
 ## Library yang digunakan
